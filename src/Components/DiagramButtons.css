@@ -1,8 +1,8 @@
 .centered-container {
-    width: 100%;
-    text-align: center;
+  width: 100%;
+  margin: 20px auto;
 }
 
 .inline-element {
-    display: inline-block;
+  display: inline-block;
 }
